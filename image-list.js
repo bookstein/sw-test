@@ -1,26 +1,22 @@
 var Path = 'gallery/';
 
 var Gallery = { 'images' : [
-      
   {
-    'name'  : 'Darth Vader',
-    'alt' : 'A Black Clad warrior lego toy',
-    'url': 'gallery/myLittleVader.jpg',
-    'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
+    'name'  : 'Retro Poster',
+    'alt' : 'My Star Trek Discovery retro poster for Episode 3. I wanted Burnham on her own as she feels so isolated throughout the episode. Look for another poster next week!',
+    'url': 'gallery/trekRetroPoster.jpg',
+    'credit': '<a href="http://xfilesposterproject.tumblr.com/post/165970010895/my-star-trek-discovery-retro-poster-for-episode">xfilesposterproject</a>'
   },
-
   {
-    'name'  : 'Snow Troopers',
-    'alt' : 'Two lego solders in white outfits walking across an icy plain',
-    'url': 'gallery/snowTroopers.jpg',
-    'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
+    'name'  : 'Janeway Coffee',
+    'alt' : 'Theres coffee in that nebula',
+    'url': 'gallery/janeway.png',
+    'credit': '<a href="http://mouzeron.tumblr.com/post/165623994048/and-captain-janeway-was-worried-she-wasnt">legOfenris</a>',
   },
-
   {
-    'name'  : 'Bounty Hunters',
-    'alt' : 'A group of bounty hunters meeting, aliens and humans in costumes.',
-    'url': 'gallery/bountyHunters.jpg',
-    'credit': '<a href="https://www.flickr.com/photos/legofenris/">legOfenris</a>, published under a <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Attribution-NonCommercial-NoDerivs 2.0 Generic</a> license.'
+    'name'  : 'Captain Philippa Georgiou',
+    'alt' : 'Captain Philippa Georgiou',
+    'url': 'gallery/captainPhilippaGeorgiou.jpg',
+    'credit': '<a href="http://summerartist.tumblr.com/post/165944662456/captain-philippa-georgiou">summerartist</a>',
   },
-  
 ]};
